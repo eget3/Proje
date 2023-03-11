@@ -2,6 +2,7 @@
 body{
     background-color: rgb(255, 235, 180);
 }
+
 .nav {
 background-color: rgb(255, 191, 169);
 width: 1895px;
@@ -13,46 +14,31 @@ text-align: center;
 
 
 .tarihler {
-
 width: 360px;
 font-size: 40px;
 float: left;
 height: 2000px;
-
-
 }
 
 
-.kronoloji {
-    
-    width: 260px;
-    float: left;
+.kronoloji {  
+width: 260px;
+float: left;
 }
 
-
-.muharebeler {
-    
+.muharebeler {   
 font-size: 30px;
 width: 500px;
 height: 2000px;
 font-size: 40px;
 padding-bottom: 100px;
-
 float: left;
-
 }
 
-
 .images {
- 
- 
  width: 260px;
  float: left;
  height:2000px;
-
- 
- 
-
 } 
 
 footer { 
@@ -61,37 +47,27 @@ footer {
     height: 45px;  
     position: fixed; 
     bottom: 0; 
-    padding: 10px;
-    
-    
+    padding: 10px; 
     } 
+
 
 .social{
  text-align: center; 
-  
  margin-right: 40px;
  margin-bottom: 40px;
- 
 }
+
+
 h3{
     margin-top: 97px;
 }
-
-
-
-
-
-
-
 
 body{
     float: left;
 }
 
 .önemlinkler{
-    text-align: center;
-    
-    
+    text-align: center; 
 }
 
 h1{
@@ -197,7 +173,25 @@ button {
     transform: translate3d(0, 0, -1em);
    }
 
+   a#hakkımızda:hover {
+color: #382b22;
 
+   }
+
+
+   a#iletişim:hover{
+    color: #382b22;
+   }
+
+   .hakkımızda-h2{
+    font-size: 35px;
+    
+   }
+   p{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+   }
+  
 
 
 
